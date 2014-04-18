@@ -1,11 +1,9 @@
 ---
 layout: page
 permalink: /about/
-title: The Boy & The Girl
+title: the boy & the girl
 tags: [data]
 modified: 2013-09-13
 image:
-  feature: DSCF3434.jpg
+  feature: DSCF3434.JPG
 ---
-
-We have data needs.
