@@ -1,5 +1,5 @@
 title:            bed.coffee
-description:      the data life of @thejunglejane + @kenketier
+description:      the small data life of @thejunglejane + @kenketier
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
@@ -27,13 +27,13 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: The Projects
+  - title: Projects
     url: /projects/
-  - title: The Data
+  - title: Data
     url: /data/
-  - title: The Boy &amp; The Girl
+  - title: About
     url: /about/
-  - title: The Links
+  - title: Links
     url: /links/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
