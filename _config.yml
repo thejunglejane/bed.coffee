@@ -2,7 +2,7 @@ title:            bed.coffee
 description:      the data life of @thejunglejane + @kenketier
 logo:             site-logo.png
 disqus_shortname: 
-search:           false
+search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://thejunglejane.github.io/bed.coffee
 
