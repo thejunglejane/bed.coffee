@@ -5,9 +5,7 @@ title: The Boy & The Girl
 tags: [data]
 modified: 2013-09-13
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+  feature: DSCF3434.JPG
 ---
 
 We have data needs.
