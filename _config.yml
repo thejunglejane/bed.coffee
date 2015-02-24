@@ -12,9 +12,9 @@ owner:
   avatar:         bio-photo.png
   email:          jane@bed.coffee
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        https://twitter.com/thejunglejane    
-  github:         https://github.com/thejunglejane    
-  instagram:      https://instagram.come/thejunglejane        
+  twitter:        thejunglejane    
+  github:         thejunglejane    
+  instagram:      thejunglejane        
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
