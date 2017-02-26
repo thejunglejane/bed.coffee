@@ -1,1 +1,1 @@
-We have data needs.
+Small, slow, decolonized data.

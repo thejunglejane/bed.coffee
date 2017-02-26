@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: the boy & the girl
+title: the girl
 tags: [data]
 modified: 2013-09-13
 ---
